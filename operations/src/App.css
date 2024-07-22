@@ -1,0 +1,12 @@
+button{
+  margin: 10px;
+  display: block;
+}
+div{
+  width: 500px;
+  border: 2px black solid;
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
